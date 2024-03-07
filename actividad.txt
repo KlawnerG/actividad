@@ -1,4 +1,4 @@
 la actividad
 se divide en dos partes
-esta es una 3
-esta es la otra 4
+esta es una 1
+esta es la otra 2
